@@ -4,4 +4,7 @@
 void main()
 {
  printf("damm");
+ printf("damm damm"); 
+ 
+ 
 }
